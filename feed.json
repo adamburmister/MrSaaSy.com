@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mr SaaSy",
+    "description": "",
+    "home_page_url": "https://adamburmister.github.io/mrsaasy.com",
+    "feed_url": "https://adamburmister.github.io/mrsaasy.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mr SaaSy"
+    },
+    "items": [
+    ]
+}
